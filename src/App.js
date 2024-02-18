@@ -1,8 +1,7 @@
-import "./App.css";
 import Header from "./components/Header";
 function App() {
   return (
-    <div className="bg-[#999D9E] h-full">
+    <div className="bg-slate-900 h-full">
       <Header />
     </div>
   );
